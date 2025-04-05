@@ -1,28 +1,31 @@
-# P-2-P File Sharing System
+# 🔁 P2P File Sharing System
 
-A simple file sharing system implemented using file handling principles in **Python** that can handle complex file transfers of any type (.docx, .pdf, .mp3, .mp4, .exe, .png, .jpeg, jpg and any program files to name a few) across **different clients from a single server** at any single point of time via a shared Wi-fi connection or a hotspot. For simplicity and testing purposes, the UI has been designed by python's own GUI module called **tkinter** which helps in easier design choices and simple interfaces for the user.
+A lightweight yet powerful **peer-to-peer file sharing system** built using **Python** and basic file handling principles. This system supports seamless transfer of virtually **any file type** — `.docx`, `.pdf`, `.mp3`, `.mp4`, `.exe`, `.png`, `.jpeg`, `.jpg`, and more — between multiple clients through a single server over a **shared Wi-Fi or mobile hotspot connection**.
 
-## Usage
+For ease of use, the interface has been crafted using Python’s built-in **`tkinter`** module, allowing for a clean and user-friendly experience without external UI dependencies.
 
-Download the server and the client .py files from the repository and run it on your local system. The server and the client can be on different devices also, ensuring the proper file transfers between two different machines. 
+---
 
-Few things to note before running:
+## 🚀 Getting Started
 
-- Keep the port number as default (8080). You can change it only if you are sure about the changes.
-- Have a proper wi-fi or hotspot connection for both the devices before running the programs.
+1. Clone/download both the server and client Python files.
+2. Run them on your local system — or across two separate devices connected to the same network.
+3. Transfer files effortlessly between devices!
 
-## Contributing
+> ✅ **Tip:** Keep the port number as `8080` (default). Only change it if you know what you're doing.  
+> 📶 **Ensure** both devices are on the same Wi-Fi/hotspot for successful file transfer.
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+---
 
-Please make sure to update tests as appropriate.
+## 🤝 Contributing
 
-# Contributers
+Pull requests are always welcome!  
+If you're planning major changes, please open an issue first to discuss the direction.
 
+Also, don’t forget to update or add tests where relevant.
 
-Deepro Chakravorty - [Github](https://github.com/DThePro/)
+---
 
-## License
+## 👤 Contributors
 
-[MIT](https://choosealicense.com/licenses/mit/)
+**Deepro Chakravorty** – [GitHub](https://github.com/DThePro/)
