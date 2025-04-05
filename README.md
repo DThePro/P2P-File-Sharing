@@ -26,6 +26,6 @@ Also, don’t forget to update or add tests where relevant.
 
 ---
 
-## 👤 Contributors
+## 👤 Team Members
 
-**Deepro Chakravorty** – [GitHub](https://github.com/DThePro/)
+**Srijit Sen** – [GitHub](https://github.com/Srijit07/)
